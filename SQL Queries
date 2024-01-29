@@ -1,0 +1,13 @@
+//To display users information
+
+Select * from user_db  users;
+or
+Select id , username,name from users;
+
+
+
+Select id , user_id , title, content from posts;
+
+
+
+
